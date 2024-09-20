@@ -18,7 +18,7 @@
 ### Steps (Bước thực hiện)
 1. Clone the repository (Clone repository này)
 ```bash 
-git clone https://github.com/suyttthideptrai/SS1_2023_StableMatchingSolver_Backend.git
+git clone https://github.com/suyttthideptrai/SS1_2024_StableMatchingSolver_Backend.git
 ```
 2. Build the project (Build project)
 ```bash
